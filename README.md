@@ -1,4 +1,4 @@
-![start](entralab1.png)
+![Entra Lab Screenshot](entraidlab1.png)
 
 
 
